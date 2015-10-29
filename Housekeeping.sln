@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Housekeeping", "Housekeeping\Housekeeping.rptproj", "{46F8F3BC-6468-4138-A88A-1CC907D05BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F8F3BC-6468-4138-A88A-1CC907D05BDE}.Debug|Default.ActiveCfg = Debug
+		{46F8F3BC-6468-4138-A88A-1CC907D05BDE}.Debug|Default.Build.0 = Debug
+		{46F8F3BC-6468-4138-A88A-1CC907D05BDE}.Debug|Default.Deploy.0 = Debug
+		{46F8F3BC-6468-4138-A88A-1CC907D05BDE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{46F8F3BC-6468-4138-A88A-1CC907D05BDE}.DebugLocal|Default.Build.0 = DebugLocal
+		{46F8F3BC-6468-4138-A88A-1CC907D05BDE}.Release|Default.ActiveCfg = Release
+		{46F8F3BC-6468-4138-A88A-1CC907D05BDE}.Release|Default.Build.0 = Release
+		{46F8F3BC-6468-4138-A88A-1CC907D05BDE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
